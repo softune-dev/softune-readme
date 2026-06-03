@@ -1,6 +1,6 @@
 <div align="center">
   <!-- FULL WIDTH BANNER GIF -->
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/4382009/animated-pattern.gif" alt="Softune Banner" width="100%" />
+  <img src="banner.gif" alt="Softune Banner" width="100%" />
 
   <br/><br/>
 
